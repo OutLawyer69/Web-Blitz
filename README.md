@@ -32,9 +32,11 @@
 ---
 
 ## Demo / Screenshots
-
-*Add an image or GIF here demonstrating generated templates or the generator in action.*
-
+<img width="1884" height="869" alt="image" src="https://github.com/user-attachments/assets/b44815c3-21dc-491d-8c16-1a65897b4d82" />
+<img width="1881" height="859" alt="image" src="https://github.com/user-attachments/assets/a6982d3c-e75d-48fa-8491-c8adaaa002d3" />
+<img width="1865" height="863" alt="image" src="https://github.com/user-attachments/assets/a92d9772-4cf0-4077-9c82-ae3d6e0ef393" />
+<img width="1884" height="840" alt="image" src="https://github.com/user-attachments/assets/727c45f7-d4f4-4572-bdc0-302390a17dff" />
+![Uploading image.png…]()
 ```
 (Placeholder: Insert screenshot or link to a hosted demo)
 ```
